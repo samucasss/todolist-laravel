@@ -1,5 +1,5 @@
 # ToDoList Laravel
-Implementação do backend da aplicação ToDoList com o Laravel
+Implementação do backend da aplicação ToDoList com o framework Laravel. Tecnologias utilizadas: PHP, Laravel 9, Mongo DB e JWT Authentication.
 
 ## Aplicação ToDoList:
 
